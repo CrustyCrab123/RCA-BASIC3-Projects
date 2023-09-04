@@ -29,4 +29,4 @@ If you don't own any of Lee Hart's computer kits but still want to run these pro
 
 - [Lee Hart's website](https://sunrise-ev.com): If you're interested in putting together of Lee Hart's computer kits
 - [COSMAC ELF Forum](https://groups.io/g/cosmacelf/): A forum where you can find more people based in RCA 1802-based computers
-- [Emma02 Emulator Download](https://www.emma02.hobby-site.com/download.html): If you want to play around with RCA BASIC3 without having to solder together any of the kits
+- [Emma02 Emulator Download](https://www.emma02.hobby-site.com/download.html): If you want to play around with RCA BASIC3 without having to purchase or solder together any of the kits
