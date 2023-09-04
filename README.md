@@ -10,7 +10,7 @@ This repository contains programs adapted for and written in RCA BASIC3, a somew
 The programs in this repository should run on any computer running RCA BASIC3, but I cannot guarantee their compatibility. Currently, I can only guarantee that these programs run on the 1802 MemberCHIP Card, as that is the kit computer I use for development. I'll do my best to include information in the readme files about the computers on which I've tested the programs. I plan to eventually test them on the full size 1802 Membership Card as well. For more details on the differences between the full size Membership and MemberCHIP Cards, you can visit Lee Hart's website, which is linked below.
 
 ## Readme Files
-Each program in this repository is accompanied by a `readme.txt` file. The readme will indicate whether the program was originally designed by me or if it was adapted from a different source and translated to RCA BASIC3. If the program from another dialect of BASIC, the original BASIC code, credit to the original author, and links to the original work will be provided.
+Each program in this repository is accompanied by a `readme.txt` file. The readme will indicate whether the program was originally designed by me or if it was adapted from a different source and translated to RCA BASIC3. If the program is orginally from another dialect of BASIC, the original BASIC code, credit to the original author, and links to the original work will be provided.
 
 ## Folder Structure
 Each folder in this repository contains three files:
