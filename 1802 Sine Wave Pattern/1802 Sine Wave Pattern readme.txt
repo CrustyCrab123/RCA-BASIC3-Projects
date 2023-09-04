@@ -1,0 +1,3 @@
+This is a very simple program for printing a sine wave pattern in RCA BASIC3.
+I originally got this program from Dave's Garage's video "Microsoft's First Product: Recovered from the Original Source Code!" https://www.youtube.com/watch?v=X2UPNiv-h_U
+This is just a simple program that likely wasn't invented by him but I still feel it necessary to cite my source here since I just adapted the code from him.
