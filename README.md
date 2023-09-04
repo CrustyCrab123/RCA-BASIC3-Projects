@@ -17,7 +17,7 @@ Each folder in this repository contains three files:
 
 - The full code of the program in a .BAS file. This file provides the exact code that you can type in manually if you prefer. Please note that copy and pasting may not always work reliably in TeraTerm, as it can sometimes leave out characters.
 
-- A PLOAD version of the program. This file is formatted for quick and easy data loading onto your Membership or MemberCHIP Card using the PSAVE command in RCA BASIC3.
+- A PLOAD version of the program. This file is formatted for quick and easy data loading onto your Membership or MemberCHIP Card using the PSAVE and PLOAD commands in RCA BASIC3.
 
 - A readme file that provides information about the program, including its origin and any credits to the original author and work.
 
