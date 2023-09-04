@@ -19,3 +19,5 @@ If you don't own any of Lee Hart's computer kits but still want to run these pro
 If you're just coming across this repository by chance, here's a link to Lee Hart's website if you're interested in putting together any of his comptuer kits: https://sunrise-ev.com/
 
 And here's a link to the COSMAC ELF forum where you can find more people interested in RCA 1802 based computers: https://groups.io/g/cosmacelf/
+
+And a link to download Emma02 if you wanna play around with RCA BASIC3 without having to solder together any of the kits: https://www.emma02.hobby-site.com/
