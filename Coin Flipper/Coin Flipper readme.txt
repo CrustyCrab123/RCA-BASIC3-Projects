@@ -1,0 +1,3 @@
+This is a simple coin flipper program that I made while experimenting with random number generation and printing the results of those generations while I was trying to convert the Dice program.
+This program is arguably the first proper program I made in RCA BASIC3, though since it's so simple I tend to think of my rock paper scissors game as my first proper BASIC3 program.
+As the name implies, this program just flips a coin and tells you if it's heads or tails.
